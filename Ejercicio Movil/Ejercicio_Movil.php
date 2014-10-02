@@ -24,6 +24,8 @@
 			<li><a href="#">Contactos</a></li>	
 		</ul>
 <?php
+	/*En este taller en clase, se recibio ayuda de Maria Alejandra Moreno, Andrea Castañeda y Kammil Carranza
+	*/
 	include_once("includes/database.php");
 
 	$usuarioActivo = $_GET["usuario"];
