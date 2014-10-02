@@ -1,0 +1,140 @@
+/* Estilos principales*/
+/*Estilos principales*/
+/*Reset */
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+/*H*/
+
+h1{
+	font-family: 'Source Sans Pro', sans-serif;
+		color:white;
+}
+h2{
+	font-family: 'Source Sans Pro', sans-serif;
+		color:white;
+}
+h3{
+	font-family: 'Source Sans Pro', sans-serif;
+		color:white;
+}
+h4{
+	font-family: 'Source Sans Pro', sans-serif;
+		color:white;
+}
+h5{
+	font-family: 'Source Sans Pro', sans-serif;
+		color:white;
+}
+h6{
+	font-family: 'Source Sans Pro', sans-serif;
+		color:white;
+}
+
+
+/* body */
+
+body {
+	background-color: #3C42BF;
+
+}
+
+/*Figure*/
+figure img { 
+	width: 100%;
+	height: auto; 
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: 5px;
+	vertical-align: middle;
+
+}
+
+
+
+/* Header */
+header figure img{
+	height: auto;
+	width: 70%;
+
+}
+
+header{
+
+}
+
+header figure {
+	width: 35%;
+	display: inline-block;
+}
+
+header h1{
+		font-family: 'Source Sans Pro', sans-serif;
+	font-size: 1em;
+	display: inline-block;
+}
+
+
+/*Clases*/
+
+.colorUno {
+	background-color: #5058FF ;
+}
+
+.colorDos{
+	background-color: #484FE5 ;
+}
+
+.imagenUsua {
+	width: 15%;
+	display: inline-block;
+}
+
+.imagenLike {
+	width: 10%;
+	margin-left: 60px;
+	display: inline-block;
+}
+
+.imagenComen  {
+	width: 10%;
+	margin-left: 60px;
+	display: inline-block;
+}
+
+
+/*div*/
+div {
+
+}
+
+div h6{
+	font-size: 0.6em;
+
+}
+
+div article {
+	width: 70%;
+	padding: center;
+	margin-left: 30px;
+	display: inline-block;
+}
+
+#headerTitle {
+	display :;
+}
+
+/* Nav */
+
+nav{
+	background-color: #282C7F;
+	text-align: center;
+}
+
+nav li {
+	display: inline-block;
+}
